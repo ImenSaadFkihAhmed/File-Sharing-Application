@@ -1,0 +1,39 @@
+2022-12-04 21:11:08		File 1.txt is found on 192.168.43.251 !
+2022-12-04 21:21:25		File 1.txt is found on 192.168.43.251 !
+2022-12-04 21:21:59		File 3.txt is found on 192.168.43.251 !
+2022-12-04 21:43:11		File 1.txt is found on 192.168.43.251 !
+2022-12-04 21:56:43		File 3.txt is not found!
+2022-12-04 21:57:21		File 1.txt is not found!
+2022-12-04 21:57:40		File 1.txt is found on 192.168.43.176 !
+2022-12-06 07:34:55		File 1.txt is not found!
+2022-12-06 08:33:32		File 1.txt is Do_registered on the index server!
+2022-12-06 08:33:32		File 3.txt is Do_registered on the index server!
+2022-12-06 08:33:32		File 4.txt is Do_registered on the index server!
+2022-12-06 08:33:32		File 7.txt is Do_registered on the index server!
+2022-12-06 08:34:41		File 1.txt is unDo_registered on the index server!
+2022-12-06 08:35:04		File 7.txt is unDo_registered on the index server!
+2022-12-06 08:35:30		File 3.txt is unDo_registered on the index server!
+2022-12-06 08:35:41		File 4.txt is unDo_registered on the index server!
+2022-12-06 08:38:51		File JEE.txt is Do_registered on the index server!
+2022-12-06 08:38:51		File NESTJS.txt is Do_registered on the index server!
+2022-12-06 08:38:51		File STR.txt is Do_registered on the index server!
+2022-12-06 08:38:51		File TX.txt is Do_registered on the index server!
+2022-12-06 08:45:54		File JEE.txt is Do_registered on the index server!
+2022-12-06 08:45:54		File NESTJS.txt is Do_registered on the index server!
+2022-12-06 08:45:54		File STR.txt is Do_registered on the index server!
+2022-12-06 08:45:54		File TX.txt is Do_registered on the index server!
+2022-12-06 08:46:13		File 1 is not found!
+2022-12-06 08:46:29		File 1.txt is found on 192.168.26.176 !
+2022-12-06 08:54:45		File JEE.txt is Do_registered on the index server!
+2022-12-06 08:54:45		File NESTJS.txt is Do_registered on the index server!
+2022-12-06 08:54:45		File STR.txt is Do_registered on the index server!
+2022-12-06 08:54:45		File TX.txt is Do_registered on the index server!
+2022-12-06 08:55:14		File TX.txt is found on 192.168.43.251 !
+2022-12-06 08:56:00		File TX.txt is found on 192.168.43.251 !
+2022-12-06 09:01:59		File JEE.txt is Do_registered on the index server!
+2022-12-06 09:01:59		File NESTJS.txt is Do_registered on the index server!
+2022-12-06 09:01:59		File STR.txt is Do_registered on the index server!
+2022-12-06 09:01:59		File TX.txt is Do_registered on the index server!
+2022-12-06 09:02:09		File 1.y is not found!
+2022-12-06 09:02:23		File 1.txt is found on 192.168.43.176 !
+2022-12-06 09:43:43		File 1.txt is found on 192.168.43.176 !
